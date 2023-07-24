@@ -1,5 +1,3 @@
-<img src="inexo-banner.png" alt="Image description">
-
 # Welcome to Inexo Technologies
 
 At Inexo Technologies, we are dedicated to leveraging the power of software to solve real-world problems and improve people's lives. Our team of experienced developers and engineers collaborate on GitHub to develop cutting-edge solutions that are reliable, efficient, and user-friendly.
